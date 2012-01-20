@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<movie version="9" width="600" height="400" framerate="120">
+    <background color="#AA5555"/>
+    <frame>
+        <library>
+            <bitmap id='redlib.RedBitmap' import='red.png' />
+        </library>
+    </frame>
+</movie>

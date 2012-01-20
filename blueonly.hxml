@@ -1,0 +1,9 @@
+-main BlueOnly
+-swf blueonly.swf
+-swf-version 10.1
+-swf-header 640:480:30:5555ee
+-swf-lib blue/blue.swf
+-cp src/blueonly
+-cp blue/interface
+
+

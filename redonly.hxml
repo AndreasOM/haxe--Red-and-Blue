@@ -1,0 +1,9 @@
+-main RedOnly
+-swf redonly.swf
+-swf-version 10.1
+-swf-header 640:480:30:ee5555
+-swf-lib red/red.swf
+-cp src/redonly
+-cp red/interface
+
+

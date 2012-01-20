@@ -1,0 +1,11 @@
+-main Purple
+-swf purple.swf
+-swf-version 10.1
+-swf-header 640:480:30:ee55ee
+-swf-lib blue/blue.swf
+-swf-lib red/red.swf
+-cp src/purple
+-cp blue/interface
+-cp red/interface
+
+

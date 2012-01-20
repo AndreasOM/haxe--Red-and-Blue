@@ -1,5 +1,8 @@
-all: redonly blueonly
+all: redonly blueonly purple
 
+purple: blue/blue.swf red/red.swf src/purple/purple.hx
+	haxe purple.hxml
+	
 blueonly: blue/blue.swf src/blueonly/blueonly.hx
 	haxe blueonly.hxml
 
